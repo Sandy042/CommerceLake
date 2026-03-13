@@ -407,4 +407,4 @@ main (catalog)
 
 ---
 
-*Built with ❤️ by Sandesh M S | March 2026*
+*Built by Sandesh M S | March 2026*
